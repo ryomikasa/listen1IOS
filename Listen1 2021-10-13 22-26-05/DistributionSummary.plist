@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Listen1.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>78864637B8A40F043030FF858006943582096BDE</string>
+				<key>dateExpires</key>
+				<string>2022/2/19</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>J3UG2V47GT.net.chinaedu.mikapi</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>J3UG2V47GT</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>J3UG2V47GT.net.chinaedu.mikapi</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Listen1.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>a94a555e-0e8b-4bab-8be5-7939a6699242</string>
+				<key>dateExpires</key>
+				<string>2022/9/24</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: net.chinaedu.mikapi</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>J3UG2V47GT</string>
+				<key>name</key>
+				<string>Hongcheng Technology Development Co. Ltd.</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
